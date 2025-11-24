@@ -1,8 +1,12 @@
 hello world 
 hi -> main이 수정 
 hi -> testbranch가 수정 
+<<<<<<< HEAD
 local 저장소에서 수정
 
 
 
 
+=======
+github에서 수정 
+>>>>>>> bf0c36ad3e5c665d90c99312163894b80f7a617e
